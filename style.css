@@ -10,7 +10,7 @@ main{
     place-items: center;
 }
 .box{
-    height: 300px;
+    height: 174px;
     width: 300px;
     display: flex;
     flex-direction: column;
@@ -35,5 +35,20 @@ main{
     background-color: white;
 }
 .grey{
-    background-color: grey;
+    background-color: #5E5D5A;
+}
+.blue{
+    background-color: #426899;
+}
+.sky{
+    background-color: #77AFD6;
+}
+.skin{
+    background-color: #E3C597;
+}
+.red{
+    background-color: #BE2E36;
+}
+.brown{
+    background-color: #62473B;
 }
