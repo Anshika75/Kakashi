@@ -14,7 +14,7 @@ main{
     width: 300px;
     display: flex;
     flex-direction: column;
-    background-color: green;
+    background-color: rgb(221, 221, 221);
 }
 .sub{
     display: flex;
@@ -26,5 +26,14 @@ main{
 .miniBox{
     height: 6px;
     width: 6px;
-    border: 1px solid #222;
+    border: 0.01px solid #2224;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.grey{
+    background-color: grey;
 }
